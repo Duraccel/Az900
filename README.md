@@ -114,4 +114,4 @@ Pronto! Você está conectado ao seu banco de dados na nuvem Azure e pode começ
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario).
+Feito com ❤️ por [github.com/Duraccel)
